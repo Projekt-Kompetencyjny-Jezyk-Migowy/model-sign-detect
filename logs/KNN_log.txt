@@ -1,9 +1,0 @@
-Model: KNN
-Czas treningu: 2.68 s
-Parametry: {'algorithm': 'auto', 'leaf_size': 30, 'metric': 'minkowski', 'metric_params': None, 'n_jobs': None, 'n_neighbors': 5, 'p': 2, 'weights': 'uniform'}
-
-Średnie metryki:
-Accuracy: 0.9265
-Precision: 0.9209
-Recall: 0.9008
-F1: 0.9074

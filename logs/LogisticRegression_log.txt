@@ -1,9 +1,0 @@
-Model: LogisticRegression
-Czas treningu: 24.15 s
-Parametry: {'C': 1.0, 'class_weight': None, 'dual': False, 'fit_intercept': True, 'intercept_scaling': 1, 'l1_ratio': None, 'max_iter': 100, 'multi_class': 'deprecated', 'n_jobs': None, 'penalty': 'l2', 'random_state': None, 'solver': 'lbfgs', 'tol': 0.0001, 'verbose': 0, 'warm_start': False}
-
-Średnie metryki:
-Accuracy: 0.9745
-Precision: 0.9661
-Recall: 0.9492
-F1: 0.9557

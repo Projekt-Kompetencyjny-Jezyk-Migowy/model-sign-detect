@@ -1,0 +1,12 @@
+po smote:
+⚖️  Zastosowanie SMOTE w celu zbalansowania danych...
+📊 Liczność po SMOTE: {'a': 599, 'a+': 599, 'b': 599, 'c': 599, 'c+': 599, 'ch': 599, 'cz': 599, 'd': 599, 'e': 599, 'e+': 599, 'f': 599, 'g': 599, 'h': 599, 'i': 599, 'j': 599, 'k': 599, 'l': 599, 'l+': 599, 'm': 599, 'n': 599, 'n+': 599, 'o': 599, 'o+': 599, 'p': 599, 'r': 599, 'rz': 599, 's': 599, 's+': 599, 'sz': 599, 't': 599, 'u': 599, 'w': 599, 'y': 599, 'z': 599, 'z+': 599, 'z-': 599}
+
+🔍 Trening modelu: Randomforest
+|====================|
+Accuracy: 0.9971
+Precision: 0.9971
+Recall: 0.9971
+F1: 0.9971
+Czas treningu: 523.68 s
+|====================|

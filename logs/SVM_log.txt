@@ -1,9 +1,0 @@
-Model: SVM
-Czas treningu: 108.64 s
-Parametry: {'C': 1.0, 'break_ties': False, 'cache_size': 200, 'class_weight': None, 'coef0': 0.0, 'decision_function_shape': 'ovr', 'degree': 3, 'gamma': 'scale', 'kernel': 'rbf', 'max_iter': -1, 'probability': False, 'random_state': None, 'shrinking': True, 'tol': 0.001, 'verbose': False}
-
-Średnie metryki:
-Accuracy: 0.9356
-Precision: 0.9345
-Recall: 0.9203
-F1: 0.9253

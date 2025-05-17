@@ -1,0 +1,9 @@
+Model: NaiveBayes
+Czas treningu: 3.75 s
+Parametry: {'priors': None, 'var_smoothing': 1e-09}
+
+Średnie metryki:
+Accuracy: 0.7868
+Precision: 0.7771
+Recall: 0.7880
+F1: 0.7747

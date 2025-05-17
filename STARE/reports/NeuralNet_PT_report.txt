@@ -1,0 +1,9 @@
+Model: NeuralNet_PT
+
+=== Średnie metryki z cross-validation ===
+Accuracy: 0.9901
+Precision (macro): 0.9759
+Recall (macro): 0.9717
+F1 Score (macro): 0.9724
+
+Czas treningu: 83.00 sekund
