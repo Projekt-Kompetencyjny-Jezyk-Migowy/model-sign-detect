@@ -1,9 +1,3 @@
-Model: Randomforest
-Czas treningu: 523.68 s
-Parametry: {'bootstrap': True, 'ccp_alpha': 0.0, 'class_weight': None, 'criterion': 'gini', 'max_depth': None, 'max_features': 'sqrt', 'max_leaf_nodes': None, 'max_samples': None, 'min_impurity_decrease': 0.0, 'min_samples_leaf': 1, 'min_samples_split': 2, 'min_weight_fraction_leaf': 0.0, 'monotonic_cst': None, 'n_estimators': 100, 'n_jobs': None, 'oob_score': False, 'random_state': None, 'verbose': 0, 'warm_start': False}
-
-Średnie metryki:
-Accuracy: 0.9971
-Precision: 0.9971
-Recall: 0.9971
-F1: 0.9971
+Najlepszy model: RandomForest
+Parametry: {'classifier__n_estimators': 200, 'classifier__min_samples_split': 5, 'classifier__min_samples_leaf': 1, 'classifier__max_features': 'log2', 'classifier__max_depth': 20}
+Czas treningu: 715.32 sekund
