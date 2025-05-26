@@ -1,0 +1,8 @@
+Model: TensorFlow Sequential SSN
+Czas treningu: 161.10 s
+Epoki: 45
+Parametry: 35300 total
+Accuracy: 0.9904
+Precision: 0.9726
+Recall: 0.9715
+F1: 0.9712

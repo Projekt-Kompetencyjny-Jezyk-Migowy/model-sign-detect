@@ -1,0 +1,3 @@
+Najlepszy model: MLPClassifier
+Parametry: {'classifier__learning_rate': 'constant', 'classifier__hidden_layer_sizes': (100,), 'classifier__alpha': 0.001, 'classifier__activation': 'relu'}
+Czas treningu: 212.57 sekund
